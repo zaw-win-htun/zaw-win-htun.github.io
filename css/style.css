@@ -1,5 +1,5 @@
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:navbar-brand400,700);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 body {
@@ -446,7 +446,7 @@ h3 > .fa {
 }
 
 .navbar-custom .navbar-brand {
-	font: 700 18px/1.2 'Montserrat', serif, sans-serif;
+	font: 700 18px/1.2 'Montserrat', sans-serif;
 	color: #FFF;
 }
 
