@@ -25,11 +25,7 @@ a:hover {
 /* ---------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-<<<<<<< HEAD
-	font: 400 46px/1.2 'Montserrat',sans-serif;
-=======
 	font: 400 46px/1.2 'Montserrat', sans-serif;
->>>>>>> be87136f92effe84d24f0ff864210cb50301c137
 	margin: 5px 0 5px;
 	color: #222;
 }
@@ -542,7 +538,7 @@ h3 > .fa {
 
 
 .protext{
-	font-family:'Montserrat', serif, sans-serif; 
+	font-family:'Montserrat', sans-serif; 
 }
 
 .profile-item i {
