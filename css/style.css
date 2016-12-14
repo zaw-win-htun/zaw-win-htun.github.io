@@ -517,6 +517,9 @@ h3 > .fa {
 	.name{
 		font-size: 30px;
 	}
+	.rotate{
+		font-size: 18px;
+	}
 }
 
 @media (max-width: 350px){
